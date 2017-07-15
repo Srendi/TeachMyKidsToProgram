@@ -1,6 +1,7 @@
 # Author: Lily and Dad
 # Date: 15 July 2017
 # Description: A simple arithmatic calculator
+# Purpose: To demonstrate input, output and conditional decision making
 # Todo: Add more operators
 
 def main():
