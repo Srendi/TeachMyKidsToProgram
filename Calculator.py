@@ -8,7 +8,6 @@ def main():
 	varA = input("Please enter a number: ")
 	varB = input("Please enter a another number: ")
 	varOperator = raw_input("please enter an operator (+,-,*,/): ")
-	print("You entered " + str(varOperator))
 	if str(varOperator) == "+":
 		resultNum = str(varA+varB)
 	elif str(varOperator) == "*":
